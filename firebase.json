@@ -1,0 +1,35 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "auth-system-d38e5",
+          "appId": "1:495253335923:android:028111a9ce7ea981b25f06",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "auth-system-d38e5",
+          "appId": "1:495253335923:ios:d3848a218ccf0660b25f06",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "auth-system-d38e5",
+          "configurations": {
+            "android": "1:495253335923:android:028111a9ce7ea981b25f06",
+            "ios": "1:495253335923:ios:d3848a218ccf0660b25f06"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "site": "chatapp-23432",
+    "public": "build/web",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
