@@ -2,6 +2,8 @@
 
 ## Getting Started
 
+![Image Description](./images/my-image.jpg)
+
 <p>This is a real-time chat application built using Flutter and integrated with Firebase services, providing seamless communication and secure data management. The app leverages key Firebase features, including Authentication, Cloud Firestore, and Cloud Storage, to deliver a robust messaging experience.</p>
 
 # Key Features:
